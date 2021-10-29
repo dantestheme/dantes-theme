@@ -1,0 +1,23 @@
+{
+        "name": "monte cristo",
+        "cursorColor": "#FAFAFA",
+        "selectionBackground": "#373A4B",
+        "background": "#1C1D26",
+        "foreground": "#FAFAFA",
+        "black": "#121212",
+        "blue": "#0060E0",
+        "cyan": "#42D3F2",
+        "green": "#30F1A0",
+        "purple": "#FF4396",
+        "red": "#FF2E52",
+        "white": "#FAFAFA",
+        "yellow": "#FFF94B",
+        "brightBlack": "#204E9C",
+        "brightBlue": "#00B3F5",
+        "brightCyan": "#00DDFF",
+        "brightGreen": "#53FEBE",
+        "brightPurple": "#FF6BBB",
+        "brightRed": "#FF505F",
+        "brightWhite": "#FFFFFF",
+        "brightYellow": "#FFEA7F"
+    }
