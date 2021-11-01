@@ -38,3 +38,8 @@ Change it to:
     ]
   },
 ```
+
+## More info.
+
+You can find more apps on ![Monte Cristo Theme Website](https://johndoe0153.github.io/monte-cristo-website/).  
+And you can also visit Github Page about this project to learn about more information from ![here](https://github.com/Johndoe0153/monte-cristo-theme).
