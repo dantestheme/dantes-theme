@@ -36,4 +36,4 @@ This project is inspired from [dracuala-theme](https://github.com/dracula/dracul
 
 ## License
 
-Monte Cristo theme is under ![MIT License](https://github.com/Johndoe0153/monte-cristo-theme/blob/master/LICENSE)
+Monte Cristo theme is under ![MIT License](https://github.com/monte-cristos/monte-cristo-theme/blob/master/LICENSE)
