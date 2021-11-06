@@ -2,7 +2,7 @@
 
 ### One theme for all, all platforms for one.
 
-![The Count of Monte Cristo](https://github.com/Johndoe0153/monte-cristo/blob/master/images/Count%20in%20the%20README%202.jpg)
+![The Count of Monte Cristo](https://github.com/monte-cristo-theme/monte-cristo-theme/blob/master/Count%20in%20the%20README.jpg)
 
 ## How I did start this project
 
