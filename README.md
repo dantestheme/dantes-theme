@@ -2,7 +2,7 @@
 
 ### One theme for all, all platforms for one.
 
-![The Count of Monte Cristo](Count in the README.png)  
+![The Count of Monte Cristo](https://github.com/Johndoe0153/monte-cristo/blob/master/images/Count%20in%20the%20README%202.jpg)
 
 ## How I did start this project
 
@@ -33,3 +33,7 @@ And to reach that goal, we need your help. So if you like this theme, why don't 
  ## Credits
 
 This project is inspired from [dracuala-theme](https://github.com/dracula/dracula-theme).
+
+## License
+
+Monte Cristo theme is under ![MIT License](https://github.com/Johndoe0153/monte-cristo-theme/blob/master/LICENSE)
