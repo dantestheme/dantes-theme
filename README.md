@@ -1,32 +1,35 @@
-# Monte Cristo - The Count of Dark theme
+# 🎩 Monte Cristo - The Count of Dark theme
 
 ### One theme for all, all platforms for one.
 
 ![The Count of Monte Cristo](https://github.com/monte-cristo-theme/monte-cristo-theme/blob/master/Count%20in%20the%20README.jpg)
 
-## How I did start this project
+## Color Palette
 
-In middle of October 2021, I started learn html, css and js.  
-I installed VScode on my laptop and looked for a dark theme for it. And finally I chose the Dracula theme.  
+|Palette|HEX|
+|---|---|
+|Background |`#121212`|
+|Current Line |`#373A4B`|
+|Selection |`#373A4B`|
+|Foreground |`#FAFAFA`|
+|Comment |`#204E9C`|
+|Cyan |`#42D3F2`|
+|Green |`#30F1A0`|
+|Orange|`#FFBD41`|
+|Pink |`#FF4396`|
+|Purple |`#9B27FF`|
+|Red |`#FF2E52`|
+|Yellow|`#FFF94B`|
 
-I really like the concept of dracula theme.  
-Because its name, Dracula, and its color go really well together.  
-But I didn't like the color itself a little bit. So, I decided make my own color schemes as zenorocha did!  
+## Contribute
 
-For this, I sought inspiration from many sources. Such as include firefox, material design's color.
-At last on October 24, I made my own color scheme. And I named it "Monte Cristo".   
+1. Create a new repository.
+2. Build the new theme using the Color Paltte above.
+3. Finally, [submit an issue](https://github.com/monte-cristos/monte-cristo-theme/issues/new) with a link to your repository.  
 
- I hope you liked this theme :D
-
- ## Meaning of name "Monte Cristo"
-
-It inspired from a novel "The Count of Monte Cristo" which written by France author, Alexandre Dumas.  
-It is one of my favorite novel. At first time, I wanted to name it the full name of the novel... But it's quite long as you know :(  
-So I named it "Monte Cristo"
-
- ## Plans...?
+## Plans...?
  
-I'm plan to apply this theme to apps what I use - such as notepad++.  
+I'm planning to start with apply this theme to apps what I use.  
 But also I hope this theme will be used on many platforms as dracuala theme did.  
 And to reach that goal, we need your help. So if you like this theme, why don't you contirbute for this theme?
 
