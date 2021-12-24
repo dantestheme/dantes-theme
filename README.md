@@ -7,10 +7,10 @@
 **Table of Contents**
 
 - [Introduction](##introduction)
-- [Why Dracula?](##why-Dracula?)
-- [Why Not Dracula?](##why-Not-Dracula?)
-- [So Why Dantes?](##so-Why-Dantes?)
-- [Color Palette](##color-Palette)
+- [Why Dracula?](##why-dracula?)
+- [Why Not Dracula?](##why-not-dracula?)
+- [So Why Dantes?](##so-why-dantes?)
+- [Color Palette](##color-palette)
 - [Contribute](##contribute)
 - [Credits](##credits)
 - [License](##license)
