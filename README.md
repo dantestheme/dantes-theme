@@ -4,14 +4,16 @@
 
 ![The Count of Monte Cristo](https://github.com/dantestheme/dantes-theme/blob/master/Count%20in%20the%20README.jpg)
 
-- [Introduction](##Introduction)
-- [Why Dracula?](##Why-Dracula?)
-- [Why Not Dracula?](##Why-Not-Dracula?)
-- [So Why Dantes?](##So-Why-Dantes?)
-- [Color Palette](##Color-Palette)
-- [Contribute](##Contribute)
-- [Credits](##Credits)
-- [License](##License)
+**Table of Contents**
+
+- [Introduction](##introduction)
+- [Why Dracula?](##why-Dracula?)
+- [Why Not Dracula?](##why-Not-Dracula?)
+- [So Why Dantes?](##so-Why-Dantes?)
+- [Color Palette](##color-Palette)
+- [Contribute](##contribute)
+- [Credits](##credits)
+- [License](##license)
 
 ## Introduction
 
