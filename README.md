@@ -7,9 +7,9 @@
 **Table of Contents**
 
 - [Introduction](#introduction)
-- [Why Dracula?](#why-dracula?)
-- [Why Not Dracula?](#why-not-dracula?)
-- [So Why Dantes?](#so-why-dantes?)
+- [Why Dracula?](#why-dracula)
+- [Why Not Dracula?](#why-not-dracula)
+- [So Why Dantes?](#so-why-dantes)
 - [Color Palette](#color-palette)
 - [Contribute](#contribute)
 - [Credits](#credits)
