@@ -108,4 +108,4 @@ This project is inspired from [dracuala-theme](https://github.com/dracula/dracul
 
 ## License
 
-Monte Cristo theme is under ![MIT License](https://github.com/dantestheme/dantes-theme/blob/master/LICENSE)
+Dantes theme is under ![MIT License](https://github.com/dantestheme/dantes-theme/blob/master/LICENSE)
