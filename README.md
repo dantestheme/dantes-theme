@@ -74,22 +74,22 @@ As I said, I think Dracula theme's colors are not that dark. So I change the bri
 
 ## Color Palette
 
-|Palette|HEX|
-|---|---|
-|Main Color|`#006a6a`|
-|Highlight Color|`#39c5bb`|
-|Background |`#1d2128`|
-|Current Line |`#3b4252`|
-|Selection |`#3b4252`|
-|Foreground |`#FAFAFA`|
-|Comment |`#005fff`|
-|Cyan |`#00d2ff`|
-|Green |`#14eb96`|
-|Orange|`#ffca00`|
-|Pink |`#ff3ce1`|
-|Purple |`#a564fa`|
-|Red |`#f01900`|
-|Yellow|`#f5f500`|
+|Palette|HEX|RGB|
+|---|---|---|
+|Main Color|`#006a6a`|`0, 106, 106`|
+|Highlight Color|`#39c5bb`|`57, 197, 187`|
+|Background |`#1d2128`|`29, 33, 40`|
+|Current Line |`#3b4252`|`59, 66, 82`|
+|Selection |`#3b4252`|`59, 66, 82`|
+|Foreground |`#fafafa`|`250, 250, 250`|
+|Comment |`#005fff`|`0, 95, 255`|
+|Cyan |`#00d2ff`|`0, 210, 255`|
+|Green |`#14eb96`|`20, 235, 150`|
+|Orange|`#ffca00`|`255, 202, 0`|
+|Pink |`#ff3ce1`|`255, 60, 225`|
+|Purple |`#a564fa`|`165, 100, 250`|
+|Red |`#f01900`|`240, 25, 0`|
+|Yellow|`#f5f500`|`245, 245, 0`|
 
 ## Contribute
 
